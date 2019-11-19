@@ -25,7 +25,7 @@ cd bazel-1.1.0-dist/src
 sudo chmod 777 *.sh
 cd ..
 ```
-### 6. Use the command bellow in your session to expand your system resources access:
+### 6. Use the command below in your session to expand access limits to system resources:
 ```bash
 ulimit -c unlimited
 ```
