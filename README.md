@@ -10,7 +10,7 @@ sudo apt upgrade
 ```bash
 sudo apt -y install build-essential openjdk-8-jdk python zip unzip
 ```
-You must have to guarantee the OpenJDK v8 as defaut to your system.
+Important: You must ensure OpenJDK v8 is the default for your system during the following steps.
 ### 3. Download official Bazel 1.1.0 zipped source file:
 ```bash
 sudo wget https://github.com/bazelbuild/bazel/releases/download/1.1.0/bazel-1.1.0-dist.zip
