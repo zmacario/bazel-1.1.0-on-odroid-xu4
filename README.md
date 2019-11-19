@@ -19,7 +19,7 @@ sudo wget https://github.com/bazelbuild/bazel/releases/download/1.1.0/bazel-1.1.
 ```bash
 sudo unzip bazel-1.1.0-dist.zip -d bazel-1.1.0-dist
 ```
-### 5. Give execute permissions to some unzipped scripts
+### 5. Grant execute permissions to some unzipped scripts
 ```bash
 cd bazel-1.1.0-dist/src
 sudo chmod 777 *.sh
