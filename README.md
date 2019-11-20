@@ -1,6 +1,8 @@
 # Bazel-1.1.0-on-ODROID-XU4
 ## How to build Bazel 1.1.0 from scratch (bootstrapping) and install it on ODROID-XU4 + Ubuntu 18.04.3 LTS (Bionic Beaver).
 
+Important: The recipe below also worked perfectly for building and installing Bazel 0.29.1. There is strong evidence that will also work for other Bazel releases as well.
+
 ### 1. Let's start by updating ODROID Linux with the following commands in the terminal window:
 ```bash
 sudo apt update
